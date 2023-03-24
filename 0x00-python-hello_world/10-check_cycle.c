@@ -1,3 +1,6 @@
+#ifndef LISTS_H
+#define LISTS_H
+
 #include "lists.h"
 /**
   * check_cycle - Checiks if linked list is a cycly linked
@@ -23,3 +26,5 @@ int check_cycle(listint_t *list)
 		return (0);
 	return (1);
 }
+
+#endif
