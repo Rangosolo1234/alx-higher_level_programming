@@ -4,7 +4,7 @@ number = random.randint(-10000, 10000)
 
 # To find the last digit of a negative number
 if number < 0:
-    lastdigit = -((-1*number)%10)
+    lastdigit = -((-1 * number) % 10)
 else:
     lastdigit = (number % 10)
 if lastdigit > 5:
