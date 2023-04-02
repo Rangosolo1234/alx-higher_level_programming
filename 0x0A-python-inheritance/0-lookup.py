@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 """
-Function lookup that returns the list of methods
-used in a block of code
-=============
+=============================
+Function that prints list
+=============================
 """
 
+
 def lookup(obj):
-"""Returns the list of mettods and attributes"""
+    """Functiontoreturn the attributes of  an object"""
 
     return dir(obj)
