@@ -1,13 +1,12 @@
 #!/usr/bin/python3
 """
 ===================================
----------------------------------
+BaseGeometry class validation methods
 ===================================
 """
 
-
 class BaseGeometry:
-    """BaseGeometry class"""
+    """BaseGeometry class contains method"""
 
     def area(self):
         """Method to calculate area"""
