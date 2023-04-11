@@ -1,16 +1,16 @@
 #!/usr/bin/python3
 """
 ===========================
-No module imported
+Module with class MyList
 ===========================
 """
 
 
 class MyList(list):
-    """Class with a list argument"""
+    """Class with method print_sorted"""
     pass
 
     def print_sorted(self):
-        """Method to return sorted list"""
+        """Methot that sorted a list"""
 
         print(sorted(list(self)))
