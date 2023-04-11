@@ -1,5 +1,5 @@
 ============================================
- 7-base_geometry.py manual
+How to use 7-base_geometry.py
 ============================================
 
 This library is very simple, since it only has one function called

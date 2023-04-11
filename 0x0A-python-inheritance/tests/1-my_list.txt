@@ -1,5 +1,5 @@
 ============================================
-Using my_list.py
+How to use 1-my_list.txt
 ============================================
 
 This library is very simple, since it only has one function called
